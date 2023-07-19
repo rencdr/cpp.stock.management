@@ -1,5 +1,7 @@
 Stock Management System
+
 This is a simple stock management system implemented in C++. 
+
 It allows you to manage the inventory of products by adding new products, removing products, and displaying the current stock.
 
 Usage
